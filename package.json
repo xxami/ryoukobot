@@ -1,0 +1,12 @@
+{
+  "name": "ryoukobot",
+  "version": "1.0.0",
+  "description": "simple twitch say command reply bot",
+  "repository": "https://github.com/xxami/ryoukobot.git",
+  "license": "Unlicense",
+  "author": "xxami",
+  "dependencies": {
+    "node-twitchbot": "^2.0.4",
+    "dotenv": "^4.0.0"
+  }
+}
